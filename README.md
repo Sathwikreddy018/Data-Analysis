@@ -84,7 +84,7 @@ To get started with the projects, clone the repository and install the necessary
 pip install -r requirements.txt
 ```
 
-#### Installation for Telecom Churn Analysis
+#### **Installation for Telecom Churn Analysis**
 1.Navigate to the telecom-customer-churn-analysis/ folder.
 
 2. Open and run TeleChurnPred.ipynb in a Jupyter Notebook environment to reproduce the analysis and model training for customer churn prediction.
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 3. Use telecom churn.db for storing and querying data, and refer to Churn.md for project documentation.
 
 
-#### Installation for Electric Vehicle Charging Demand Forecasting
+#### **Installation for Electric Vehicle Charging Demand Forecasting**
 1. Navigate to the ev-charging-demand-forecasting/ folder.
 
 2. Open and run EVforecast.ipynb in a Jupyter Notebook environment to reproduce the time series forecasting and demand analysis for EV charging stations.
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 5. Access the forecast data in forecast_*.csv files.
 
-#### Key Features and Benefits
+#### **Key Features and Benefits**
 **Telecom Customer Churn Analysis**
 Predict customer churn with high accuracy.
 
@@ -118,7 +118,7 @@ Optimize infrastructure by predicting station demand and operational strategies.
 
 Improve user experience with real-time availability forecasts and dynamic pricing.
 
-#### Contributions
+#### **Contributions**
 Feel free to open issues, fork the repository, and submit pull requests if you'd like to contribute to either project.
 
 
@@ -135,6 +135,7 @@ Feel free to open issues, fork the repository, and submit pull requests if you'd
 
 
    
+
 
 
 
