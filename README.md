@@ -67,4 +67,88 @@ This project uses time series forecasting to predict the demand for electric veh
 │   ├── forecast_week.csv
 │   └── forecast_year.csv
 └── README.md
+```
+
+**telecom-customer-churn-analysis/**: Contains code, models, and notebooks related to the Telecom Customer Churn Analysis project.
+
+**ev-charging-demand-forecasting/**: Contains code, models, and notebooks for the EV Charging Demand Forecasting project.
+
+**README.md**: Contains the README file for both projects.
+
+#### Requirements
+To get started with the projects, clone the repository and install the necessary dependencies:
+
+**Clone the repository**:
+**Install the dependencies**:
+```bash
+pip install -r requirements.txt
+```
+
+#### Installation for Telecom Churn Analysis
+1.Navigate to the telecom-customer-churn-analysis/ folder.
+
+2. Open and run TeleChurnPred.ipynb in a Jupyter Notebook environment to reproduce the analysis and model training for customer churn prediction.
+
+3. Use telecom churn.db for storing and querying data, and refer to Churn.md for project documentation.
+
+
+#### Installation for Electric Vehicle Charging Demand Forecasting
+1. Navigate to the ev-charging-demand-forecasting/ folder.
+
+2. Open and run EVforecast.ipynb in a Jupyter Notebook environment to reproduce the time series forecasting and demand analysis for EV charging stations.
+
+3. Use EVCharging.twb and EVForecast.twb for interactive Tableau visualizations.
+
+4. Refer to EV.md for project documentation and insights.
+
+5. Access the forecast data in forecast_*.csv files.
+
+#### Key Features and Benefits
+**Telecom Customer Churn Analysis**
+Predict customer churn with high accuracy.
+
+Target at-risk customers and implement retention strategies.
+
+Optimize customer lifetime value (CLV) through data-driven decision-making.
+
+**Electric Vehicle Charging Demand Forecasting**
+Forecast EV charging demand based on historical data and external factors.
+
+Optimize infrastructure by predicting station demand and operational strategies.
+
+Improve user experience with real-time availability forecasts and dynamic pricing.
+
+#### Contributions
+Feel free to open issues, fork the repository, and submit pull requests if you'd like to contribute to either project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
